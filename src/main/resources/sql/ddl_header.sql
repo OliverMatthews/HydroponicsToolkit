@@ -1,0 +1,3 @@
+DROP DATABASE IF EXISTS hydro_tk;
+
+CREATE DATABASE hydro_tk;
